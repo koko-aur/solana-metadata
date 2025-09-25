@@ -1,20 +1,25 @@
 {
-  "name": "Tether USD",
+  "name": "Tether USD DEV",
   "symbol": "USDT",
-  "description": "Tether USD (USDT) is a stablecoin pegged to the US Dollar, widely used across the blockchain ecosystem.",
-  "image": "https://tether.to/images/logoMarkGreen.png",
-  "attributes": [
-    {
-      "trait_type": "category",
-      "value": "stablecoin"
-    }
+  "description": "Tether USD stablecoin for Solana devnet testing and development",
+  "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+  "decimals": 6,
+  "tags": [
+    "stablecoin",
+    "wrapped",
+    "devnet"
   ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://tether.to/images/logoMarkGreen.png",
-        "type": "image/png"
-      }
-    ]
-  }
+  "extensions": {
+    "website": "https://tether.to/",
+    "twitter": "https://twitter.com/Tether_to",
+    "coingeckoId": "tether",
+    "coinMarketCapId": "825"
+  },
+  "chainId": 103,
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+  "address": "",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "update_authority": "",
+  "metadata_uri": ""
 }
