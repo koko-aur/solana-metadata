@@ -2,7 +2,7 @@
   "name": "Tether USD",
   "symbol": "USDT",
   "description": "Tether USD (USDT) is a stablecoin pegged to the US Dollar, widely used across the blockchain ecosystem.",
-  "image": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+  "image": "https://tether.to/images/logoMarkGreen.png",
   "attributes": [
     {
       "trait_type": "category",
@@ -12,7 +12,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+        "uri": "https://tether.to/images/logoMarkGreen.png",
         "type": "image/png"
       }
     ]
