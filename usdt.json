@@ -17,9 +17,9 @@
   },
   "chainId": 103,
   "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
-  "address": "",
+  "address": "GuqZmXvtyGCU8Psweea1iQek8tBaggxneR9BsKE8Y2db",
   "freeze_authority": null,
   "mint_authority": null,
   "update_authority": "",
-  "metadata_uri": ""
+  "metadata_uri": "https://raw.githubusercontent.com/koko-aur/solana-metadata/main/usdt.json"
 }
