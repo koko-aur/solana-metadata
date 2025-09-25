@@ -20,5 +20,5 @@
   "freeze_authority": null,
   "mint_authority": null,
   "update_authority": "",
-  "metadata_uri": ""
+  "metadata_uri": "https://raw.githubusercontent.com/koko-aur/solana-metadata/main/usdc.json"
 }
