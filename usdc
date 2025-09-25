@@ -1,0 +1,24 @@
+{
+  "name": "USD Coin DEV",
+  "symbol": "USDC",
+  "description": "USD Coin stablecoin for Solana devnet testing and development",
+  "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+  "decimals": 6,
+  "tags": [
+    "stablecoin",
+    "devnet"
+  ],
+  "extensions": {
+    "website": "https://www.centre.io/",
+    "twitter": "https://twitter.com/centre_io",
+    "coingeckoId": "usd-coin",
+    "coinMarketCapId": "3408"
+  },
+  "chainId": 103,
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+  "address": "",
+  "freeze_authority": null,
+  "mint_authority": null,
+  "update_authority": "",
+  "metadata_uri": ""
+}
